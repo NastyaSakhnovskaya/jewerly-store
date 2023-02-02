@@ -1,0 +1,32 @@
+.person__screen{
+    width: 100%;
+    /* height: 800px;  */
+    /* background: #fff; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    /* box-shadow: 0 0 20px rgb(95, 95, 95); */
+    margin: 50px 0;
+}
+.person__info {
+    width:100%;
+    background: linear-gradient(to bottom, #e4d8d8, #9e9292);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 50px;
+    margin-bottom: 100px;
+}
+.basket__text{
+    font-size:24px;
+    text-decoration: none;
+    color:#000;
+    cursor: pointer;
+    margin: 10px;
+}
+.person__result {
+    width:100%;
+}
+
+
